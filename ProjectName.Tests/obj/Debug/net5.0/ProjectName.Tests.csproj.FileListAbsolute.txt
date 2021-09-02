@@ -1,0 +1,5 @@
+C:\Users\cicys\Desktop\C#Practice\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.csprojAssemblyReference.cache
+C:\Users\cicys\Desktop\C#Practice\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicys\Desktop\C#Practice\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.AssemblyInfoInputs.cache
+C:\Users\cicys\Desktop\C#Practice\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.AssemblyInfo.cs
+C:\Users\cicys\Desktop\C#Practice\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.csproj.CoreCompileInputs.cache
